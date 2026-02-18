@@ -1,0 +1,3 @@
+displayName = Mark&#39;sMode
+author = Mark
+version = 0.1.1

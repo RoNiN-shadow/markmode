@@ -1,0 +1,35 @@
+Items: {
+	MarkGun: {
+		DisplayName: Mark Gun
+		Tooltip: ""
+	}
+
+	MinecraftDiamondItem: {
+		DisplayName: Minecraft Diamond Item
+		Tooltip: ""
+	}
+
+	MinecraftCraftTable: {
+		DisplayName: Minecraft Craft Table
+		Tooltip: ""
+	}
+
+	DiamondSword: {
+		DisplayName: Diamond Sword
+		Tooltip: ""
+	}
+
+	MinecraftDiamondBreastplate: {
+		DisplayName: Minecraft Diamond Breastplate
+		Tooltip: Advanced Armor
+	}
+}
+
+Projectiles.MarkProjectile.DisplayName: Mark Projectile
+
+Buffs: {
+	DiamondBuff: {
+		DisplayName: Diamond Buff
+		Description: More Power!
+	}
+}
